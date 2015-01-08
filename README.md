@@ -1,4 +1,4 @@
 PhotoshopScript
 ===============
 
-Photoshop scripts to make life easier
+Photoshop script to extract and rasterize layers
