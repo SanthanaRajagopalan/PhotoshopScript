@@ -49,7 +49,6 @@ mainWindow = function() {
       }\
         \
         bottomGroup: Group{ \
-            cd: Checkbox { text:'Checkbox value', value: true }, \
             cancelButton: Button { text: 'Cancel', properties:{name:'cancel'}, size: [120,24], alignment:['right', 'center'] }, \
             exportBtn: Button { text: 'Export', properties:{name:'ok'}, size: [120,24], alignment:['right', 'center'] }, \
         }\
